@@ -1,0 +1,15 @@
+parameters:
+    git_dir: .
+    bin_dir: vendor/bin
+    tasks:
+      phpparser:
+        visitors:
+          forbidden_function_calls:
+            blacklist:
+              - "var_dump"
+              - "print_r"
+      phpversion:
+        project: '7.0'
+      phpcs:
+        standard: PSR2
+        ignore_patterns: [./tests/*, ./resources/*, ./database/*, ./bootstrap/*]
