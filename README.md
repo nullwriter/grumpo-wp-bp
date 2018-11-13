@@ -1,4 +1,4 @@
-# wp-plugin
+# grumpo-wp-bp
 
 Boilerplate wp plugin following modern php best practices, includes Composer, GrumPHP, PHPCS with PSR-2 standard.
 
