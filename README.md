@@ -6,8 +6,9 @@ Based on the [Wordpress-Plugin-Boilerplate](https://github.com/devinvinson/WordP
 
 ## Installation
 
+1. Create folder inside `/wp-content/plugins/` with desired plugin name (e.g. /grump-wp-bg)
+1. Open downloaded zip file or git clone this repo inside folder
 1. Rename all "plugin name" to desired name
-1. Upload plugin to the `/wp-content/plugins/` directory
 1. `cd` into plugin directory and run `composer install`
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
