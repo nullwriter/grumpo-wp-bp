@@ -21,3 +21,7 @@ Note that if you include your own classes, or third-party libraries, there are t
 - `plugin-name/public` is for all public-facing functionality
 
 You can check some [example plugins here](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate/wiki/Example-Plugins) using the base boilerplate (same file structure).
+
+## Credits
+
+The [Wordpress-Plugin-Boilerplate](https://github.com/devinvinson/WordPress-Plugin-Boilerplate/) was started in 2011 by [Tom McFarlin](http://twitter.com/tommcfarlin/) and has since included a number of great contributions. In March of 2015 the project was handed over by Tom to Devin Vinson.
