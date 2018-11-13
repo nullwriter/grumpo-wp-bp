@@ -2,3 +2,4 @@ vendor/
 .idea/
 .git/
 .DS_Store
+.phpintel/
